@@ -4,4 +4,5 @@ Repositorio de materiales extras del Bootcamp
 
 
 ## Links:
-- Documentación y archivos Micro Learning _Intro To threeJS_: https://github.com/prussian-blue/threejs-microlearning
+- Micro Learning _Intro To threeJS_: https://github.com/prussian-blue/threejs-microlearning
+- Micro Learning _Parallax web effects_: https://github.com/Micro-learnings/Parallax-web-effects
